@@ -68,3 +68,9 @@ Este projeto foi desenvolvido por:
 
 - **Larissa** - [GitHub: romugaboo](https://github.com/romugaboo)
 - **Rafael** - [GitHub: Guaricaya](https://github.com/Guaricaya)
+
+<br/>
+
+<div align="center">
+<sub>made with love by <a href="https://romugaboo.github.io">romugaboo</a> from brazil ✧ silly online ♡</sub>
+</div>
